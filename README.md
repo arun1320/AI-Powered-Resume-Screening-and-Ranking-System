@@ -21,3 +21,6 @@ Resume Ranking Output: Resumes ranked based on relevance to job descriptions.
 
 Model Training Loss Reduction: Observed improvements over multiple epochs.
 
+#Dataset contact:
+
+arunpanga007@gmail.com
